@@ -154,6 +154,7 @@ class AboutClassMethods < Neo::Koan
   #       def class_methods
   #       end
   #     end
+  #     end
   #   end
   #
   # Which do you prefer and why?
